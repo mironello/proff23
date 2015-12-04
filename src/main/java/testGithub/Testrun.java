@@ -5,6 +5,8 @@ package testGithub;
  */
 public class Testrun {
     public static void main(String[] args) {
+        String name;
+
         System.out.println("Let's go!");
     }
 }
